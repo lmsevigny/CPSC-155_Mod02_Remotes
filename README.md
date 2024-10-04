@@ -1,4 +1,4 @@
-# Ch2.5
+# Module 02
 # Exercise: Managing Git Remotes
 
 ## Step 1
